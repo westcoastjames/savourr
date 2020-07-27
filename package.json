@@ -4,7 +4,6 @@
   "description": "Side-project (Jul 26 2020) to create an Instagram-like webapp",
   "main": "index.js",
   "scripts": {
-    // "start": "node src/server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "James Velasco",
